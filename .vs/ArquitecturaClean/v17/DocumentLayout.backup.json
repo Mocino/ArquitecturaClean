@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|c:\\users\\marco\\onedrive\\escritorio\\prograu\\asp.net\\arquitecturaclean\\arquitecturaclean\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|solutionrelative:arquitecturaclean\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|c:\\users\\marco\\onedrive\\escritorio\\prograu\\asp.net\\arquitecturaclean\\arquitecturaclean\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|solutionrelative:arquitecturaclean\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|c:\\users\\marco\\onedrive\\escritorio\\prograu\\asp.net\\arquitecturaclean\\arquitecturaclean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DB8C51-6538-47D1-85C8-9C4D404E0AEA}|ArquitecturaClean\\ArquitecturaClean.csproj|solutionrelative:arquitecturaclean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ArquitecturaClean\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\appsettings.Development.json",
+              "RelativeToolTip": "ArquitecturaClean\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T05:32:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ArquitecturaClean\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ArquitecturaClean\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T05:30:14.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\Program.cs",
+              "RelativeDocumentMoniker": "ArquitecturaClean\\Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\OneDrive\\Escritorio\\PrograU\\ASP.NET\\ArquitecturaClean\\ArquitecturaClean\\Program.cs",
+              "RelativeToolTip": "ArquitecturaClean\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T05:19:11.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
